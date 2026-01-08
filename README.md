@@ -1,4 +1,23 @@
 # HOSTING-MY-FIRST-APP
+Project Description
+
+A simple calculator designed to help fellow scholars while answering and studying subjects that needs basic calculating. 
+
+Features
+
+Calculates basic arithmetic operations involving two numbers only.
+
+How to Run the Program
+
+Make sure you have any HTML software reader installed.
+Download the file Simple Calculator.
+
+Open the HTML software reader you installed.
+
+Run the program by pressing F5 or clicking 'Run'
+
+
+Example Output
 ========================== --- CALCULATOR ---
 
 Addition
